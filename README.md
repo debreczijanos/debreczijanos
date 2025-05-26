@@ -96,7 +96,7 @@
 ###
 
 <div align="left">
-  <a href="linkedin.com/in/debreczi-janos-21847a1a4" target="_blank">
+  <a href="https://linkedin.com/in/debreczi-janos-21847a1a4" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="32" alt="linkedin logo"  />
   </a>
   <a href="mailto:debreczijanos@yahoo.com" target="_blank">
